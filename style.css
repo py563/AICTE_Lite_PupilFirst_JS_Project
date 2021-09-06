@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+}
+
+.heading{
+    text-align: center;
+	color: #00142b;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+#my-canvas{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 63%;
+}
+
+.button{
+    width: 210px;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 10px;
+    display: inline-block;
+    background-color: #00143b;
+    border-radius: 15px;
+    color:white;
+}
+
+.controls-button{
+    float:right;
+}
